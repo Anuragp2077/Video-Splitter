@@ -20,6 +20,7 @@ FFmpeg
 <img width="356" height="212" alt="image" src="https://github.com/user-attachments/assets/f8fc6221-1053-456f-b663-2345064695e7" />
 
 ## Installation
-pip install -r requirements.txt
+requires ffmpeg 
+install by running "winget install ffmpeg" in cmd
 ## Run
 python src/video_splitter.py
